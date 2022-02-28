@@ -1,0 +1,6 @@
+Отличие от demo в файле human.txt(они разные)
+
+3 коммита в удалённом репозитории:
+1) fix readme
+2) README added
+3) init
